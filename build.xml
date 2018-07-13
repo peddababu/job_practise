@@ -1,0 +1,5 @@
+<project name="git" default="create">
+	<target name="create">
+		<echo> this is git</echo>
+      </target>
+</project>
